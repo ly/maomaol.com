@@ -1,0 +1,4 @@
+maomaol.com
+===========
+
+init
